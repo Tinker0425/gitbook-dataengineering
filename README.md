@@ -21,7 +21,7 @@ layout:
 
 # Welcome - Data Engineering Zoomcamp 2025 Notes
 
-Welcome to my gitbook site! This will host my notes for the DataTalksClub Data Engineering Zoomcamp 2025 cohort course! The DataTalksClub also offers other courses and you can find more information here [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).&#x20;
+Hi - My name is Kayla and welcome to my gitbook site! This will host my notes for the DataTalksClub Data Engineering Zoomcamp 2025 cohort course! The DataTalksClub also offers other courses and you can find more information here [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).&#x20;
 
 I have never used gitbook prior, so we will see how this goes! I am using a Mac and Pycharm through the course. In addition to gitbook I plan on using other sources of documentation, that will include:
 
