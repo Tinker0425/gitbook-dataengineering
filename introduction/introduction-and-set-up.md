@@ -6,13 +6,24 @@
 * [ ] [Zoomcamp Jan 13 Launch w/ Q\&A Youtube](https://www.youtube.com/watch?v=X8cEEwi8DTM)
 * [ ] [Github Coursework](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
+
+
+### :arrow\_down\_small: Download
+
+* [ ] Python
+* [ ] Visual Studio Code or Pycharm or Notepadd ++ etc.
+* [ ] Docker Desktop
+* [ ] ...
+
+
+
 ### :bookmark: Bookmark these!
 
 * [ ] [Youtube Playlist Data Engineering ](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 * [ ] [Youtube Playlist Data Engineering 2025](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJZdpLpRHp7dg6EOx828q6y)
 * [ ] [Google Calendar Data Engineering Events](https://calendar.google.com/calendar/embed?src=er1r053veb2iqu4u1fhm635q0o%40group.calendar.google.com\&ctz=America%2FAnchorage)
 * [ ] [Slack Data Engineering Course](https://datatalks-club.slack.com/archives/C01FABYF2RG)&#x20;
-* [ ] [Telegram Announcements](https://t.me/dezoomcamp)
+* [ ] [Telegram Announcements](https://t.me/dezoomcamp) - Optional
 * [ ] [Github Coursework](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 * [ ] [Google Doc FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?tab=t.0)
 * [ ] [Homework Submission & Leaderboard](https://courses.datatalks.club/de-zoomcamp-2025/)
