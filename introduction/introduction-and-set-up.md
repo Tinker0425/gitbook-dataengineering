@@ -1,3 +1,10 @@
+---
+icon: '0'
+cover: >-
+  https://images.unsplash.com/photo-1648217736318-fbc4abc138ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBib29rfGVufDB8fHx8MTczNjgyOTczNHww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Introduction & Set Up
 
 ### :ballot\_box\_with\_check: Getting Started
@@ -13,7 +20,8 @@
 * [ ] Python
 * [ ] Visual Studio Code or Pycharm or Notepadd ++ etc.
 * [ ] Docker Desktop
-* [ ] ...
+* [ ] Terraform
+* [ ] Git account
 
 
 
