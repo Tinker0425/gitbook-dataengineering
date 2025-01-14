@@ -1,6 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: >-
+  https://images.unsplash.com/photo-1519682577862-22b62b24e493?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxib29rJTIwY29mZmVlfGVufDB8fHx8MTczNjgxODE0M3ww&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -18,12 +19,15 @@ layout:
     visible: true
 ---
 
-# Welcome - Data Engineering Zoomcamp 2025
+# Welcome - Data Engineering Zoomcamp 2025 Notes
 
-Welcome to my gitbook site that will host my notes for the DataTalksClub Data Engineering Zoomcamp 2025 cohort! The DataTalksClub also offers other courses and you can find more information here [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main). My goal is for this is for my personal notes to read as a book. My other sources of documentation will include:
+Welcome to my gitbook site! This will host my notes for the DataTalksClub Data Engineering Zoomcamp 2025 cohort course! The DataTalksClub also offers other courses and you can find more information here [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).&#x20;
 
-* Notion - For my personal 'sloppy' notes, time tracking, course managment
-* Blog [https://tinker0425.github.io/](https://tinker0425.github.io/) - This will host hopefully daily posts related to what I learned through the process
+I have never used gitbook prior, so we will see how this goes! I am using a Mac and Pycharm through the course. In addition to gitbook I plan on using other sources of documentation, that will include:
+
+* Github Repo - [https://github.com/Tinker0425/data-engineering-zoomcamp-my-work](https://github.com/Tinker0425/data-engineering-zoomcamp-my-work)
+* Notion (private for now) - For my personal 'sloppy' notes, time tracking, course management
+* Blog [https://tinker0425.github.io/](https://tinker0425.github.io/) - This will host - hopefully - daily posts related to what I learned through the process
 * Linkedin [https://www.linkedin.com/in/kaylaflynn/](https://www.linkedin.com/in/kaylaflynn/) - Posting some key points I learned at least weekly
 * Blue Sky [https://bsky.app/profile/cloudybluewave.bsky.social](https://bsky.app/profile/cloudybluewave.bsky.social) - Mostly for sharing daily updates and building a community in #dataBS
 

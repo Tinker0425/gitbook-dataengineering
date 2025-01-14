@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome - Data Engineering Zoomcamp 2025](README.md)
+* [Welcome - Data Engineering Zoomcamp 2025 Notes](README.md)
 
 ## INTRODUCTION
 
