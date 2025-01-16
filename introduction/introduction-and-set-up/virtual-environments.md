@@ -4,7 +4,7 @@ My first error in the course was solved due to a virtual environment issue. So l
 
 > I will add that it is my understanding that a new virtual environment is encouraged for each module - though there may be one module that does not need one? I will update this page once I know the answer!
 
-### Brew install iterm2
+### \[Optional] Brew install iterm2&#x20;
 
 It was recommended to me to use iterm2&#x20;
 
@@ -21,29 +21,46 @@ brew
 
 &#x20;
 
-### Installing Conda
+### Conda
 
+1. You may need to install [Anaconda](https://docs.anaconda.com/anaconda/install/), so head over to the site if you do not have the application.
+2. Open iterm2 _(a terminal window)_ and type
 
-
-
-
+```bash
 python -V
+```
 
-conda create -n pyingest python=3.12
+_This will show your python version for your awareness_
 
-conda activate pyingest
+3. Now the fun part, create an environment! Remember, we will want a different environment for each project. I am using python version 3.12, so the command is
 
+```bash
+conda create -n myenvname python=3.12
+```
+
+4. Now we want to add our packages that are **not** included in the standard library, such as pandas. To do that, we need to `activate` the environment and then `pip install` what we need.
+
+```bash
+conda activate myenvname
+```
+
+In your terminal, your myenvname of choice should now show at the far left of your command promt in parentheses like&#x20;
+
+_(myenvname) Kaylas-MacBook-Air:data-engineering-zoomcamp-my-work kayla$_
+
+```bash
 pip install pandas sqlalchemy psycopg2-binary jupyterlab
+```
 
 
 
-! Work in progress
+In the future, to use these packages, we _**import**_ them into our python scripts. For example, for pandas we would write `import pandas as pd` $$import \; pandas \; as \; pd$$at the top of our python script.
 
 
 
 <details>
 
-<summary>Briefly Discussed but not used</summary>
+<summary>Briefly discussed w/ course instructur but not used</summary>
 
 1. UV - [https://docs.astral.sh/uv/getting-started/installation/#pypi](https://docs.astral.sh/uv/getting-started/installation/#pypi)
 2.
