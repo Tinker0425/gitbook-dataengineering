@@ -4,7 +4,8 @@
 
 ## INTRODUCTION
 
-* [Introduction & Set Up](introduction/introduction-and-set-up.md)
+* [Introduction & Set Up](introduction/introduction-and-set-up/README.md)
+  * [Virtual Environments](introduction/introduction-and-set-up/virtual-environments.md)
 
 ## MODULE 1
 
