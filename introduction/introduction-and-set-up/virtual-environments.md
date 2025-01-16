@@ -1,3 +1,7 @@
+---
+description: Last updated 1/15/25
+---
+
 # Virtual Environments
 
 My first error in the course was solved due to a virtual environment issue. So let's talk about setting up a virtual environment, specifically conda on a Mac.

@@ -17,9 +17,14 @@
 * [Running Postgres locally with Docker](module-1/running-postgres-locally-with-docker/README.md)
   * [1.2.2 - Ingesting NY Taxi Data to Postgres](module-1/running-postgres-locally-with-docker/1.2.2-ingesting-ny-taxi-data-to-postgres.md)
   * [1.2.3 - Connecting pgAdmin and Postgres](module-1/running-postgres-locally-with-docker/1.2.3-connecting-pgadmin-and-postgres.md)
-* [Setting up infrastructure on GCP with Terraform](module-1/setting-up-infrastructure-on-gcp-with-terraform.md)
-* [Preparing the environment for the course](module-1/preparing-the-environment-for-the-course.md)
-* [Additional Info](module-1/additional-info.md)
+  * [1.2.4 - Dockerizing the Ingestion Script](module-1/running-postgres-locally-with-docker/1.2.4-dockerizing-the-ingestion-script.md)
+  * [1.2.5 - Running Postgres and pgAdmin with Docker-Compose](module-1/running-postgres-locally-with-docker/1.2.5-running-postgres-and-pgadmin-with-docker-compose.md)
+  * [1.2.6 - SQL Refresher](module-1/running-postgres-locally-with-docker/1.2.6-sql-refresher.md)
+  * [Optional Docker Videos](module-1/running-postgres-locally-with-docker/optional-docker-videos.md)
+* [Setting up infrastructure on GCP with Terraform](module-1/setting-up-infrastructure-on-gcp-with-terraform/README.md)
+  * [1.3.1 - Terraform Primer](module-1/setting-up-infrastructure-on-gcp-with-terraform/1.3.1-terraform-primer.md)
+  * [1.3.2 - Terraform Basics](module-1/setting-up-infrastructure-on-gcp-with-terraform/1.3.2-terraform-basics.md)
+  * [1.3.3 - Terraform Variables](module-1/setting-up-infrastructure-on-gcp-with-terraform/1.3.3-terraform-variables.md)
 * [Homework](module-1/homework.md)
 
 ## Module 2
