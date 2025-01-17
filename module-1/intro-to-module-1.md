@@ -1,14 +1,22 @@
 ---
-description: Work in Progress - Construction Zone
+description: Last updated 1/16/25
 ---
 
 # Intro to Module 1
 
-[Module 1 Course Material](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform)
+{% hint style="info" %}
+You will have 2 weeks to complete Module 1
+{% endhint %}
 
-[Module 1 Course Code](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform/2_docker_sql)
+:exclamation:Homework is due 1/27/25 -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
 
-* Introduction to GCP
+
+
+[Module 1 Course Material](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform) - I will attempt to include most of this in the book
+
+[Module 1 Course Code](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform/2_docker_sql) - Again, I will attempt to include the most up-to date code here and in my repo
+
+* Introduction to Google Cloud Platform (GCP aka GCS)
 * Docker and docker-compose
 * Running Postgres locally with Docker
 * Setting up infrastructure on GCP with Terraform

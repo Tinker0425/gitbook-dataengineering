@@ -14,6 +14,10 @@ coverY: 0
 * [ ] [Zoomcamp Jan 13 Launch w/ Q\&A Youtube](https://www.youtube.com/watch?v=X8cEEwi8DTM)
 * [ ] [Github Coursework](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
+{% hint style="info" %}
+To obtain the certificate, you only need to pass the project at the end of the course. To get the most out of the course, completing the homework, #learninginpublic, and helping answer other student's questions is encouraged.
+{% endhint %}
+
 
 
 ### :arrow\_down\_small: Download & Set-Up

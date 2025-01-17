@@ -25,7 +25,7 @@ Hi - My name is Kayla and welcome to my gitbook site! This will host my notes fo
 
 I have never used gitbook prior, so we will see how this goes! I am using a Mac and Pycharm through the course. In addition to gitbook I plan on using other sources of documentation, that will include:
 
-* Github Repo - [https://github.com/Tinker0425/data-engineering-zoomcamp-my-work](https://github.com/Tinker0425/data-engineering-zoomcamp-my-work)
+* Github Repo -[ ](https://github.com/Tinker0425/de-zoomcamp-my-work)[https://github.com/Tinker0425/de-zoomcamp-my-work](https://github.com/Tinker0425/de-zoomcamp-my-work)
 * Notion (private for now) - For my personal 'sloppy' notes, time tracking, course management
 * Blog [https://tinker0425.github.io/](https://tinker0425.github.io/) - This will host - hopefully - daily posts related to what I learned through the process
 * Linkedin [https://www.linkedin.com/in/kaylaflynn/](https://www.linkedin.com/in/kaylaflynn/) - Posting some key points I learned at least weekly
