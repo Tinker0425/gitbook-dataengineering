@@ -1,6 +1,6 @@
 ---
 icon: '0'
-description: Last updated 1/15/25
+description: Last updated 1/16/25
 cover: >-
   https://images.unsplash.com/photo-1648217736318-fbc4abc138ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBib29rfGVufDB8fHx8MTczNjgyOTczNHww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -18,10 +18,6 @@ coverY: 0
 
 ### :arrow\_down\_small: Download & Set-Up
 
-{% embed url="https://youtu.be/ae-CV2KfoN0&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=14" %}
-[https://youtu.be/ae-CV2KfoN0\&list=PL3MmuxUbc\_hJed7dXYoJw8DoCuVHhGEQb\&index=14](https://youtu.be/ae-CV2KfoN0\&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb\&index=14)
-{% endembed %}
-
 * [ ] Python
 * [ ] Visual Studio Code or Pycharm or Notepadd ++ etc.
 * [ ] Docker Desktop
@@ -35,6 +31,10 @@ coverY: 0
 
 
 ### :bookmark: Bookmark these!
+
+{% hint style="info" %}
+If you use google chrome, I recommend creating a group tab. You can learn how [here](https://blog.google/products/chrome/manage-tabs-with-google-chrome/).
+{% endhint %}
 
 * [ ] [Youtube Playlist Data Engineering ](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
 * [ ] [Youtube Playlist Data Engineering 2025](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJZdpLpRHp7dg6EOx828q6y)
