@@ -12,7 +12,7 @@
 * [Intro to Module 1](module-1/intro-to-module-1.md)
 * [Google Cloud Platform GCP](module-1/google-cloud-platform-gcp/README.md)
   * [1.1.1 - Introduction to Google Cloud Platform](module-1/google-cloud-platform-gcp/1.1.1-introduction-to-google-cloud-platform.md)
-* [Docker and docker-compose](module-1/docker-and-docker-compose/README.md)
+* [Docker & Docker-compose](module-1/docker-and-docker-compose/README.md)
   * [1.2.1 - Introduction to Docker](module-1/docker-and-docker-compose/1.2.1-introduction-to-docker.md)
 * [Running Postgres locally with Docker](module-1/running-postgres-locally-with-docker/README.md)
   * [1.2.2 - Ingesting NY Taxi Data to Postgres](module-1/running-postgres-locally-with-docker/1.2.2-ingesting-ny-taxi-data-to-postgres.md)

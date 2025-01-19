@@ -1,12 +1,36 @@
 ---
 icon: '0'
-description: Last updated 1/16/25
+description: Last updated 1/18/25
 cover: >-
   https://images.unsplash.com/photo-1648217736318-fbc4abc138ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBib29rfGVufDB8fHx8MTczNjgyOTczNHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
 # Introduction & Set Up
+
+### :key: Key for Reading my notes&#x20;
+
+:writing\_hand: Summary section
+
+:no\_entry: Where I recommend not pausing your workflow
+
+:black\_large\_square: Using our terminal window&#x20;
+
+:pencil: Using our code editor
+
+:hammer\_pick: A difference between the course and what I had to do to 'fix' it
+
+:white\_check\_mark: What we learned
+
+:recycle: Where we will recall something from a pervious lesson
+
+:books: Supplemental Materials
+
+:bookmark: A link I recommend bookmarking
+
+:link: Additional Helpful links
+
+
 
 ### :ballot\_box\_with\_check: Getting Started
 
@@ -18,21 +42,17 @@ coverY: 0
 To obtain the certificate, you only need to pass the project at the end of the course. To get the most out of the course, completing the homework, #learninginpublic, and helping answer other student's questions is encouraged.
 {% endhint %}
 
-
-
 ### :arrow\_down\_small: Download & Set-Up
 
 * [ ] Python
 * [ ] Visual Studio Code or Pycharm or Notepadd ++ etc.
-* [ ] Docker Desktop
+* [ ] [Docker Desktop](https://docs.docker.com/get-started/get-docker/)
 * [ ] Terraform
 * [ ] Git account
 
 > I believe the alternative option is using Github Codespace. You can see a video on the set-up here in video 1.4.2 - [https://www.youtube.com/watch?v=XOSUt8Ih3zA\&list=PL3MmuxUbc\_hJed7dXYoJw8DoCuVHhGEQb\&index=16](https://www.youtube.com/watch?v=XOSUt8Ih3zA\&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb\&index=16)
 >
 > _I have not attempted this alternative yet, but will update this section if I do._
-
-
 
 ### :bookmark: Bookmark these!
 
@@ -50,6 +70,13 @@ If you use google chrome, I recommend creating a group tab. You can learn how [h
 * [ ] [Google Doc FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?tab=t.0)
 * [ ] [Homework Submission & Leaderboard](https://courses.datatalks.club/de-zoomcamp-2025/)
 * [ ] [GCP Google Cloud Platform](https://cloud.google.com)
+* [ ] [Data Source Taxi Rides NY](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+### :question:Asking for Help in Slack
+
+1. Join the slack `data engineering course` channel link posted above&#x20;
+2. Follow [these recommendations](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/asking-questions.md) when asking for help
+3. Read the [DataTalks.Club community guidelines](https://datatalks.club/slack/guidelines.html)
 
 ### :link: Helpful Links
 
