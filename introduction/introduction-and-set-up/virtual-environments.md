@@ -39,6 +39,12 @@ python -V
 
 _This will show your python version for your awareness_
 
+&#x20; 2a. My version was 3.9.13 and I wanted to update so I ran
+
+```
+conda update --all
+```
+
 3. Now the fun part, create an environment! Remember, we will want a different environment for each project. I am using python version 3.12, so the command is
 
 ```bash
