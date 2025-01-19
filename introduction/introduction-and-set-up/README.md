@@ -1,6 +1,6 @@
 ---
 icon: '0'
-description: Last updated 1/18/25
+description: Last updated 1/19/25
 cover: >-
   https://images.unsplash.com/photo-1648217736318-fbc4abc138ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBib29rfGVufDB8fHx8MTczNjgyOTczNHww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -83,6 +83,7 @@ If you use google chrome, I recommend creating a group tab. You can learn how [h
 * [ ] [Intro to Python](https://mlbookcamp.com/article/python)
 * [ ] [Data Talks Club](https://datatalks.club/)
 * [ ] [Past Student Notes for Module 1](./)
+* [ ] [Ella's 2024 Intro & Module 1 Video](https://www.youtube.com/watch?v=VUZshlVAnk4\&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F\&source_ve_path=OTY3MTQ)
 
 
 
