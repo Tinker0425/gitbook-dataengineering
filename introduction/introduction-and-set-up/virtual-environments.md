@@ -39,12 +39,6 @@ python -V
 
 _This will show your python version for your awareness_
 
-&#x20; 2a. My version was 3.9.13 and I wanted to update so I ran
-
-```
-conda update --all
-```
-
 3. Now the fun part, create an environment! Remember, we will want a different environment for each project. I am using python version 3.12, so the command is
 
 ```bash
@@ -67,7 +61,7 @@ pip install pandas sqlalchemy psycopg2-binary jupyterlab
 
 
 
-In the future, to use these packages, we _**import**_ them into our python scripts. For example, for pandas we would write `import pandas as pd` $$import \; pandas \; as \; pd$$at the top of our python script.
+In the future, to use these packages, we _**import**_ them into our python scripts. For example, for pandas we would write `import pandas as pd` at the top of our python script.
 
 
 
