@@ -42,7 +42,3 @@ Module 1 will introduce us to Docker, Postgres, Google Cloud Platform, and Terra
 
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="google-cloud-platform-gcp/">Google Cloud Platform GCP (GCP aka GCS)</a></td><td></td><td></td></tr><tr><td><a href="docker-and-docker-compose/">Docker &#x26; Docker-compose</a></td><td></td><td></td></tr><tr><td><a href="running-postgres-locally-with-docker/">Running Postgres Locally w/ Docker</a></td><td></td><td></td></tr><tr><td><a href="setting-up-infrastructure-on-gcp-with-terraform/">GCP w/ Terraform</a></td><td></td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
-
-I am using Pycharm on a Mac and for this course, after downloading Docker Desktop, I added the Docker Plugin for Pycharm. You can find more details about that here [https://www.jetbrains.com/help/pycharm/docker.html#connect\_to\_docker](https://www.jetbrains.com/help/pycharm/docker.html#connect_to_docker)
-
-[Docker SectionNotes](https://docs.google.com/document/d/e/2PACX-1vRJUuGfzgIdbkalPgg2nQ884CnZkCg314T_OBq-_hfcowPxNIA0-z5OtMTDzuzute9VBHMjNYZFTCc1/pub)

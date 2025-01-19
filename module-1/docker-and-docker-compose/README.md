@@ -7,7 +7,7 @@ coverY: 0
 
 # Docker & Docker-compose
 
-
+I am using Pycharm on a Mac and for this course, after downloading Docker Desktop, I added the Docker Plugin for Pycharm. You can find more details about that here [https://www.jetbrains.com/help/pycharm/docker.html#connect\_to\_docker](https://www.jetbrains.com/help/pycharm/docker.html#connect_to_docker)
 
 The final `code` for this section posted by datacamp is found here [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform/2\_docker\_sql](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/01-docker-terraform/2_docker_sql)
 
