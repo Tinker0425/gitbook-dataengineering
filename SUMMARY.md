@@ -19,7 +19,7 @@
   * [1.2.3 - Connecting pgAdmin and Postgres](module-1/running-postgres-locally-with-docker/1.2.3-connecting-pgadmin-and-postgres.md)
   * [1.2.4 - Dockerizing the Ingestion Script](module-1/running-postgres-locally-with-docker/1.2.4-dockerizing-the-ingestion-script.md)
   * [1.2.5 - Running Postgres and pgAdmin with Docker-Compose](module-1/running-postgres-locally-with-docker/1.2.5-running-postgres-and-pgadmin-with-docker-compose.md)
-  * [Docker-Compose Example](module-1/running-postgres-locally-with-docker/docker-compose-example.md)
+  * [Docker-Compose Summary](module-1/running-postgres-locally-with-docker/docker-compose-summary.md)
   * [1.2.6 - SQL Refresher](module-1/running-postgres-locally-with-docker/1.2.6-sql-refresher.md)
   * [Optional Docker Videos](module-1/running-postgres-locally-with-docker/optional-docker-videos.md)
 * [Setting up infrastructure on GCP with Terraform](module-1/setting-up-infrastructure-on-gcp-with-terraform/README.md)
