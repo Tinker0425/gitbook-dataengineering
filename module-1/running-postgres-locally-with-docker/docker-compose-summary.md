@@ -14,7 +14,7 @@ Thus, I \*think\* these are the steps we need to take if we were starting over:
 
 :pencil: From you code editor
 
-First, write your code and figure out what your goal is. In our case we are writing a python script that ingests csv data in postgres. In my repo, I also created an `.env` file to hold our parameters.
+First, write your code and figure out what your goal is. In our case we are writing a python script `.py` that ingests `.csv` data in postgres. In my repo, I also created an `.env` file to hold our parameters.
 {% endstep %}
 
 {% step %}
@@ -22,7 +22,7 @@ First, write your code and figure out what your goal is. In our case we are writ
 
 :pencil: From you code editor
 
-Now we will need a Docker file and a docker-compose file. We use our Docker file to build our environment and you can find a full list of 'dictionary' options online. We use our docker-compose yaml file to create our server and container structures.&#x20;
+Now we will need a Docker file and a docker-compose file. We use our Docker file to build our environment and you can find a full list of 'dictionary' options online. We use our docker-compose yaml file to create our server and container structures and then we can easily start or end the process in CLI.
 {% endstep %}
 
 {% step %}
@@ -56,7 +56,7 @@ When you're done with your docker-compose be sure to end it by running `docker-c
 
 :scroll: My repo for this summary section can be found here:
 
-
+{% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-01/docker/summary" %}
 
 
 
