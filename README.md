@@ -27,13 +27,23 @@ Hi - My name is Kayla and welcome to my gitbook site! This will host my notes fo
 
 I have never used gitbook prior, so we will see how this goes! I am using a Mac and Pycharm through the course. In addition to gitbook I plan on using other sources of documentation, that will include:
 
+{% tabs %}
+{% tab title="BlueSky" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social" fullWidth="false" %}
+{% endtab %}
+
+{% tab title="Github" %}
 {% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work" %}
+{% endtab %}
 
-{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social" %}
-
+{% tab title="Blog" %}
 {% embed url="https://tinker0425.github.io/" %}
+{% endtab %}
 
+{% tab title="Linkedin" %}
 {% embed url="https://www.linkedin.com/in/kaylaflynn" %}
+{% endtab %}
+{% endtabs %}
 
 ### Jump right in
 
