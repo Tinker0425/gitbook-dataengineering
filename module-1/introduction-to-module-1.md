@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Intro to Module 1
+# Introduction to Module 1
 
 {% hint style="info" %}
 You will have 2 weeks to complete Module 1
@@ -41,4 +41,4 @@ Module 1 will introduce us to Docker, Postgres, Google Cloud Platform, and Terra
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="google-cloud-platform-gcp/">Google Cloud Platform GCP (GCP aka GCS)</a></td><td></td><td></td></tr><tr><td><a href="docker-and-docker-compose/">Docker &#x26; Docker-compose</a></td><td></td><td></td></tr><tr><td><a href="../module-2/....md">Running Postgres Locally w/ Docker</a></td><td></td><td></td></tr><tr><td><a href="setting-up-infrastructure-on-gcp-with-terraform/">GCP w/ Terraform</a></td><td></td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="1.1-google-cloud-platform-gcp/">Google Cloud Platform GCP (GCP aka GCS)</a></td><td></td><td></td></tr><tr><td><a href="1.2-docker-and-docker-compose/">Docker &#x26; Docker-compose</a></td><td></td><td></td></tr><tr><td><a href="../module-2/....md">Running Postgres Locally w/ Docker</a></td><td></td><td></td></tr><tr><td><a href="1.3-setting-up-infrastructure-on-gcp-with-terraform/">GCP w/ Terraform</a></td><td></td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
