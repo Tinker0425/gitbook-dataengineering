@@ -43,21 +43,25 @@
 ## Module 3
 
 * [Nothing here yet!](module-3/nothing-here-yet.md)
+* [Introduction to Module 3](module-3/introduction-to-module-3.md)
 * [Homework](module-3/homework.md)
 
 ## Module 4
 
 * [Nothing here yet!](module-4/nothing-here-yet.md)
+* [Introduction to Module 4](module-4/introduction-to-module-4.md)
 * [Homework](module-4/homework.md)
 
 ## Module 5
 
 * [Nothing here yet!](module-5/nothing-here-yet.md)
+* [Introduction to Module 5](module-5/introduction-to-module-5.md)
 * [Homework](module-5/homework.md)
 
 ## Module 6
 
 * [Nothing here yet!](module-6/nothing-here-yet.md)
+* [Introduction to Module 6](module-6/introduction-to-module-6.md)
 * [Homework](module-6/homework.md)
 
 ## Final Project

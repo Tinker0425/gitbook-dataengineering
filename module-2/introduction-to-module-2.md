@@ -1,6 +1,6 @@
 ---
-description: Last updated 1/22/25
 icon: '2'
+description: Last updated 1/22/25
 cover: >-
   https://images.unsplash.com/photo-1642222385655-8339a5b6033b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxudW1iZXIlMjAyfGVufDB8fHx8MTczNzYwMzYyNnww&ixlib=rb-4.0.3&q=85
 coverY: 159
@@ -40,4 +40,4 @@ Module 2 will introduce us to Kestra, which is "an open-source, event-driven orc
 
 {% @github-files/github-code-block url="https://github.com/kestra-io/kestra" %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>2.1 - Introduction to Orchestration and Kestra</td><td></td></tr><tr><td></td><td>2.2 - </td><td></td></tr><tr><td></td><td>2.3 - </td><td></td></tr><tr><td>Bonus</td><td></td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><a href="2.1-introduction-to-orchestration-and-kestra.md">2.1 - Introduction to Orchestration and Kestra</a></td><td></td></tr><tr><td></td><td><a href="2.2-etl-pipelines-in-kestra-detailed-walkthrough.md">2.2 - ETL Pipelines in Kestra: Detailed Walkthrough</a></td><td></td></tr><tr><td></td><td><a href="2.3-etl-pipelines-in-kestra-google-cloud-platform.md">2.3 - ETL Pipelines in Kestra: Google Cloud Platform</a></td><td></td></tr><tr><td><a href="bonus-deploy-to-the-cloud.md">Bonus: Deploy to the Cloud</a></td><td></td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
