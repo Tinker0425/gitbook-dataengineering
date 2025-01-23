@@ -29,8 +29,12 @@
 
 ## Module 2
 
-* [Nothing here yet!](module-2/nothing-here-yet.md)
-* [...](module-2/....md)
+* [Introduction to Module 2](module-2/introduction-to-module-2.md)
+* [2.1 - Introduction to Orchestration and Kestra](module-2/2.1-introduction-to-orchestration-and-kestra.md)
+* [2.2 - ETL Pipelines in Kestra: Detailed Walkthrough](module-2/2.2-etl-pipelines-in-kestra-detailed-walkthrough.md)
+* [2.3 - ETL Pipelines in Kestra: Google Cloud Platform](module-2/2.3-etl-pipelines-in-kestra-google-cloud-platform.md)
+* [Bonus: Deploy to the Cloud](module-2/bonus-deploy-to-the-cloud.md)
+* [Homework](module-2/homework.md)
 
 ## Workshop
 
@@ -39,18 +43,22 @@
 ## Module 3
 
 * [Nothing here yet!](module-3/nothing-here-yet.md)
+* [Homework](module-3/homework.md)
 
 ## Module 4
 
 * [Nothing here yet!](module-4/nothing-here-yet.md)
+* [Homework](module-4/homework.md)
 
 ## Module 5
 
 * [Nothing here yet!](module-5/nothing-here-yet.md)
+* [Homework](module-5/homework.md)
 
 ## Module 6
 
 * [Nothing here yet!](module-6/nothing-here-yet.md)
+* [Homework](module-6/homework.md)
 
 ## Final Project
 

@@ -1,5 +1,5 @@
 ---
-description: Due Jan 27 2025 AK time
+description: Due Feb 2025 AK time
 icon: memo-circle-check
 cover: >-
   https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdHVkeSUyMGNvZmZlZXxlbnwwfHx8fDE3Mzc2MDMzMDl8MA&ixlib=rb-4.0.3&q=85
