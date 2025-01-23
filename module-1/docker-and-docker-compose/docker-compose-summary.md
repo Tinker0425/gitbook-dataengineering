@@ -1,5 +1,9 @@
 ---
 description: Last updated 1/22/25
+icon: whale
+cover: >-
+  https://images.unsplash.com/photo-1616764814882-fb4bcfc5e277?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx3aGFsZSUyMHRhaWx8ZW58MHx8fHwxNzM3NjAwMzkzfDA&ixlib=rb-4.0.3&q=85
+coverY: -64
 ---
 
 # Docker-Compose Summary

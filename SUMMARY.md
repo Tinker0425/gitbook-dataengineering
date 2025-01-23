@@ -14,14 +14,13 @@
   * [1.1.1 - Introduction to Google Cloud Platform](module-1/google-cloud-platform-gcp/1.1.1-introduction-to-google-cloud-platform.md)
 * [Docker & Docker-compose](module-1/docker-and-docker-compose/README.md)
   * [1.2.1 - Introduction to Docker](module-1/docker-and-docker-compose/1.2.1-introduction-to-docker.md)
-* [Running Postgres locally with Docker](module-1/running-postgres-locally-with-docker/README.md)
-  * [1.2.2 - Ingesting NY Taxi Data to Postgres](module-1/running-postgres-locally-with-docker/1.2.2-ingesting-ny-taxi-data-to-postgres.md)
-  * [1.2.3 - Connecting pgAdmin and Postgres](module-1/running-postgres-locally-with-docker/1.2.3-connecting-pgadmin-and-postgres.md)
-  * [1.2.4 - Dockerizing the Ingestion Script](module-1/running-postgres-locally-with-docker/1.2.4-dockerizing-the-ingestion-script.md)
-  * [1.2.5 - Running Postgres and pgAdmin with Docker-Compose](module-1/running-postgres-locally-with-docker/1.2.5-running-postgres-and-pgadmin-with-docker-compose.md)
-  * [Docker-Compose Summary](module-1/running-postgres-locally-with-docker/docker-compose-summary.md)
-  * [1.2.6 - SQL Refresher](module-1/running-postgres-locally-with-docker/1.2.6-sql-refresher.md)
-  * [Optional Docker Video](module-1/running-postgres-locally-with-docker/optional-docker-video.md)
+  * [1.2.2 - Ingesting NY Taxi Data to Postgres](module-1/docker-and-docker-compose/1.2.2-ingesting-ny-taxi-data-to-postgres.md)
+  * [1.2.3 - Connecting pgAdmin and Postgres](module-1/docker-and-docker-compose/1.2.3-connecting-pgadmin-and-postgres.md)
+  * [1.2.4 - Dockerizing the Ingestion Script](module-1/docker-and-docker-compose/1.2.4-dockerizing-the-ingestion-script.md)
+  * [1.2.5 - Running Postgres and pgAdmin with Docker-Compose](module-1/docker-and-docker-compose/1.2.5-running-postgres-and-pgadmin-with-docker-compose.md)
+  * [Docker-Compose Summary](module-1/docker-and-docker-compose/docker-compose-summary.md)
+  * [1.2.6 - SQL Refresher](module-1/docker-and-docker-compose/1.2.6-sql-refresher.md)
+  * [Optional Docker Video](module-1/docker-and-docker-compose/optional-docker-video.md)
 * [Setting up infrastructure on GCP with Terraform](module-1/setting-up-infrastructure-on-gcp-with-terraform/README.md)
   * [1.3.1 - Terraform Primer](module-1/setting-up-infrastructure-on-gcp-with-terraform/1.3.1-terraform-primer.md)
   * [1.3.2 - Terraform Basics](module-1/setting-up-infrastructure-on-gcp-with-terraform/1.3.2-terraform-basics.md)
@@ -31,6 +30,7 @@
 ## Module 2
 
 * [Nothing here yet!](module-2/nothing-here-yet.md)
+* [...](module-2/....md)
 
 ## Workshop
 
