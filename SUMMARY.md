@@ -30,9 +30,17 @@
 ## Module 2
 
 * [Introduction to Module 2](module-2/introduction-to-module-2.md)
-* [2.1 - Introduction to Orchestration and Kestra](module-2/2.1-introduction-to-orchestration-and-kestra.md)
-* [2.2 - ETL Pipelines in Kestra: Detailed Walkthrough](module-2/2.2-etl-pipelines-in-kestra-detailed-walkthrough.md)
-* [2.3 - ETL Pipelines in Kestra: Google Cloud Platform](module-2/2.3-etl-pipelines-in-kestra-google-cloud-platform.md)
+* [2.1 - Introduction to Orchestration and Kestra](module-2/2.1-introduction-to-orchestration-and-kestra/README.md)
+  * [2.1.1 - Workflow Orchestration Introduction](module-2/2.1-introduction-to-orchestration-and-kestra/2.1.1-workflow-orchestration-introduction.md)
+  * [2.1.2 - Learn Kestra](module-2/2.1-introduction-to-orchestration-and-kestra/2.1.2-learn-kestra.md)
+* [2.2 - ETL Pipelines in Kestra: Detailed Walkthrough](module-2/2.2-etl-pipelines-in-kestra-detailed-walkthrough/README.md)
+  * [2.2.1 - Create an ETL Pipeline with Postgres in Kestra](module-2/2.2-etl-pipelines-in-kestra-detailed-walkthrough/2.2.1-create-an-etl-pipeline-with-postgres-in-kestra.md)
+  * [2.2.2 - Manage Scheduling and Backfills using Postgres in Kestra](module-2/2.2-etl-pipelines-in-kestra-detailed-walkthrough/2.2.2-manage-scheduling-and-backfills-using-postgres-in-kestra.md)
+  * [2.2.3 - Transform Data with dbt and Postgres in Kestra](module-2/2.2-etl-pipelines-in-kestra-detailed-walkthrough/2.2.3-transform-data-with-dbt-and-postgres-in-kestra.md)
+* [2.3 - ETL Pipelines in Kestra: Google Cloud Platform](module-2/2.3-etl-pipelines-in-kestra-google-cloud-platform/README.md)
+  * [2.3.1 - Create an ETL Pipeline with GCS and BigQuery in Kestra](module-2/2.3-etl-pipelines-in-kestra-google-cloud-platform/2.3.1-create-an-etl-pipeline-with-gcs-and-bigquery-in-kestra.md)
+  * [2.3.2 - Manage Scheduling and Backfills using BigQuery in Kestra](module-2/2.3-etl-pipelines-in-kestra-google-cloud-platform/2.3.2-manage-scheduling-and-backfills-using-bigquery-in-kestra.md)
+  * [2.3.3 - Transform Data with dbt and BigQuery in Kestra](module-2/2.3-etl-pipelines-in-kestra-google-cloud-platform/2.3.3-transform-data-with-dbt-and-bigquery-in-kestra.md)
 * [Bonus: Deploy to the Cloud](module-2/bonus-deploy-to-the-cloud.md)
 * [Homework](module-2/homework.md)
 
