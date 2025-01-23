@@ -21,7 +21,7 @@
   * [1.2.5 - Running Postgres and pgAdmin with Docker-Compose](module-1/running-postgres-locally-with-docker/1.2.5-running-postgres-and-pgadmin-with-docker-compose.md)
   * [Docker-Compose Summary](module-1/running-postgres-locally-with-docker/docker-compose-summary.md)
   * [1.2.6 - SQL Refresher](module-1/running-postgres-locally-with-docker/1.2.6-sql-refresher.md)
-  * [Optional Docker Videos](module-1/running-postgres-locally-with-docker/optional-docker-videos.md)
+  * [Optional Docker Video](module-1/running-postgres-locally-with-docker/optional-docker-video.md)
 * [Setting up infrastructure on GCP with Terraform](module-1/setting-up-infrastructure-on-gcp-with-terraform/README.md)
   * [1.3.1 - Terraform Primer](module-1/setting-up-infrastructure-on-gcp-with-terraform/1.3.1-terraform-primer.md)
   * [1.3.2 - Terraform Basics](module-1/setting-up-infrastructure-on-gcp-with-terraform/1.3.2-terraform-basics.md)

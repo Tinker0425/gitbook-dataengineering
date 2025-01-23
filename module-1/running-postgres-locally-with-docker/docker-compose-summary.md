@@ -1,10 +1,10 @@
 ---
-description: Last updated 1/20/25
+description: Last updated 1/22/25
 ---
 
 # Docker-Compose Summary
 
-To make sure I was understanding the final version of our Docker lesson, I did two things. I first worked through this quickstart [https://docs.docker.com/compose/gettingstarted/](https://docs.docker.com/compose/gettingstarted/) , which gave me another example of how to use docker-compose. I then went back and made sure I could use the docker-compose YAML file we created.
+:writing\_hand: To make sure I was understanding the final version of our Docker lesson, I did two things. I first worked through this quickstart [https://docs.docker.com/compose/gettingstarted/](https://docs.docker.com/compose/gettingstarted/) , which gave me another example of how to use docker-compose. I then went back and made sure I could use the docker-compose YAML file we created.
 
 Thus, I \*think\* these are the steps we need to take if we were starting over:
 
@@ -50,14 +50,8 @@ When you're done with your docker-compose be sure to end it by running `docker-c
 {% endstep %}
 {% endstepper %}
 
-
-
 ### Resources
 
 :scroll: My repo for this summary section can be found here:
 
 {% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-01/docker/summary" %}
-
-
-
-so we made our two images terminal run it, a python file, a docker file then build it run it, then a docker-compose file docker-compose up -d

@@ -25,7 +25,7 @@ layout:
 You will have 2 weeks to complete Module 1
 {% endhint %}
 
-:exclamation:Homework is due 1/27/25 -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
+:exclamation:Homework is due 1/27/25 (Alaska local time) -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
 
 
 
