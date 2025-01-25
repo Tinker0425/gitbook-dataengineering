@@ -50,7 +50,9 @@ To obtain the certificate, you only need to pass the project at the end of the c
 * [ ] Terraform
 * [ ] Git account
 
-> I believe the alternative option is using Github Codespace. You can see a video on the set-up here in video 1.4.2 - [https://www.youtube.com/watch?v=XOSUt8Ih3zA\&list=PL3MmuxUbc\_hJed7dXYoJw8DoCuVHhGEQb\&index=16](https://www.youtube.com/watch?v=XOSUt8Ih3zA\&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb\&index=16)
+> I believe the alternative option is using a virtual environment in Google Cloud and Github Codespace. You can see the videos on the set-up here in videos:\
+> &#x20;1.4.1 - [https://www.youtube.com/watch?v=ae-CV2KfoN0\&list=PL3MmuxUbc\_hJed7dXYoJw8DoCuVHhGEQb\&index=15](https://www.youtube.com/watch?v=ae-CV2KfoN0\&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb\&index=15) \
+> 1.4.2 - [https://www.youtube.com/watch?v=XOSUt8Ih3zA\&list=PL3MmuxUbc\_hJed7dXYoJw8DoCuVHhGEQb\&index=16](https://www.youtube.com/watch?v=XOSUt8Ih3zA\&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb\&index=16)
 >
 > _I have not attempted this alternative yet, but will update this section if I do._
 
