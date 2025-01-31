@@ -17,10 +17,3 @@ Resources
 * [Moving from Development to Production](https://go.kestra.io/de-zoomcamp/dev-to-prod)
 * [Using Git in Kestra](https://go.kestra.io/de-zoomcamp/git)
 * [Deploy Flows with GitHub Actions](https://go.kestra.io/de-zoomcamp/deploy-github-actions)
-
-
-
-
-
-Look at these...should I add these videos to module 1?\
-[https://github.com/Tinker0425/data-engineering-zoomcamp/tree/main/02-workflow-orchestration#6-additional-resources-](https://github.com/Tinker0425/data-engineering-zoomcamp/tree/main/02-workflow-orchestration#6-additional-resources-)\
