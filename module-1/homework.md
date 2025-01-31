@@ -16,13 +16,17 @@ coverY: 0
 
 ### HW #1 Q\&A
 
-:white\_check\_mark: My github repo to homework  #1 questions and full answers with thought process, links, and code:
+:white\_check\_mark: My github repo to homework  #1 questions and full correct answers with thought process, links, and code:
 
 {% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-01/homework" %}
 
 {% embed url="https://courses.datatalks.club/de-zoomcamp-2025/leaderboard/5566/" %}
 My submission on the course management page
 {% endembed %}
+
+:star: Leaderboard Rank #1 | 5-way-tie&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-01-31 at 11.53.54 AM.png" alt=""><figcaption></figcaption></figure>
 
 Zoomcamp repo to 2025 homework #1 questions and answers
 
