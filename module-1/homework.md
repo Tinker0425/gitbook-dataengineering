@@ -1,6 +1,6 @@
 ---
 icon: memo-circle-check
-description: Due Jan 27 2025 AK time
+description: Due Jan 27 2025
 cover: >-
   https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdHVkeSUyMGNvZmZlZXxlbnwwfHx8fDE3Mzc2MDMzMDl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -8,25 +8,25 @@ coverY: 0
 
 # Homework
 
-#### Overview of the homework, my thought process, and answers. Will update solution when I have them.
-
 {% hint style="info" %}
 2024 - 2022 Past homework and solutions can be found here
 
 [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts)
 {% endhint %}
 
-1. ...
-2. ...
-3. ...
+### HW #1 Q\&A
 
+:white\_check\_mark: My github repo to homework  #1 questions and full answers with thought process, links, and code:
 
+{% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-01/homework" %}
 
-### Resources
+{% embed url="https://courses.datatalks.club/de-zoomcamp-2025/leaderboard/5566/" %}
+My submission on the course management page
+{% endembed %}
 
-My github repo...
+Zoomcamp repo to 2025 homework #1 questions and answers
 
-
+{% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025/01-docker-terraform" %}
 
 ### FAQ Support Links
 
