@@ -1,6 +1,6 @@
 ---
-description: Due Feb 3 2025
 icon: memo-circle-check
+description: Due Feb 3 2025
 cover: >-
   https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdHVkeSUyMGNvZmZlZXxlbnwwfHx8fDE3Mzc2MDMzMDl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -26,9 +26,7 @@ Zoomcamp repo to 2025 homework #2 questions and answers...
 
 {% tabs %}
 {% tab title="Slack Answer" %}
-...
-
-
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1738362706631949?thread_ts=1738355550.937739&cid=C01FABYF2RG" %}
 {% endtab %}
 {% endtabs %}
 
