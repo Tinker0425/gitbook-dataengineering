@@ -1,6 +1,6 @@
 ---
 icon: '2'
-description: Last updated 1/31/25
+description: Last updated 2/2/25
 cover: >-
   https://images.unsplash.com/photo-1642222385655-8339a5b6033b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxudW1iZXIlMjAyfGVufDB8fHx8MTczNzYwMzYyNnww&ixlib=rb-4.0.3&q=85
 coverY: 159
@@ -27,6 +27,10 @@ You will have 1 week to complete Module 2
 {% endhint %}
 
 :exclamation:Homework is due 2/03/25 (Alaska local time) -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
+
+:warning: NOTE that because this module was new, there were a lot of changes/modifications to this week throughout the week. Some of my notes may not have caught all the changes. Two ISSUES were the docker-compose.yml and JSON key. In these notes, the docker-compose.yml by Bruno is great, up until the dbt module, when I used Will's, but better practice is Bruno's. The JSON private key comes into play for GCP connection. BE SURE to NOT git your key info. The video has up copy and paste it into a flow, so DO NOT git that flow. I put mine in a folder called 'private' and did not add it to my public github repo. You can find more info in slack here -&#x20;
+
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1738520204522619" %}
 
 :books: Module 2 Course Material from #zoomcamp:
 
