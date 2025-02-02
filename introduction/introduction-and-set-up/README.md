@@ -1,6 +1,6 @@
 ---
 icon: '0'
-description: Last updated 1/19/25
+description: Last updated Jan 19, 2025
 cover: >-
   https://images.unsplash.com/photo-1648217736318-fbc4abc138ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBib29rfGVufDB8fHx8MTczNjgyOTczNHww&ixlib=rb-4.0.3&q=85
 coverY: 0

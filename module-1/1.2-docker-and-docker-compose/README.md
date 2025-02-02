@@ -1,11 +1,11 @@
 ---
-description: Last updated 1/22/25
+description: Last updated Jan 22, 2025
 cover: >-
   https://images.unsplash.com/photo-1568430462989-44163eb1752f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx3aGFsZXxlbnwwfHx8fDE3MzcyNDEzMTl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Docker & Docker-compose
+# 1.2 - Docker & Docker-compose
 
 I am using Pycharm on a Mac and for this course, after downloading Docker Desktop, I added the Docker Plugin for Pycharm. You can find more details about that here
 

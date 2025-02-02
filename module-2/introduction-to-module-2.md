@@ -1,6 +1,6 @@
 ---
 icon: '2'
-description: Last updated 2/2/25
+description: Last updated Feb 2, 2025
 cover: >-
   https://images.unsplash.com/photo-1642222385655-8339a5b6033b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxudW1iZXIlMjAyfGVufDB8fHx8MTczNzYwMzYyNnww&ixlib=rb-4.0.3&q=85
 coverY: 159

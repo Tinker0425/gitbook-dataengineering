@@ -1,6 +1,6 @@
 ---
-description: Last updated 1/22/25
 icon: whale
+description: Last updated Jan 22, 2025
 cover: >-
   https://images.unsplash.com/photo-1565856051705-0bf22e6ca457?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHx3aGFsZSUyMHRhaWx8ZW58MHx8fHwxNzM3NjAwMzkzfDA&ixlib=rb-4.0.3&q=85
 coverY: -77

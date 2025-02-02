@@ -1,5 +1,5 @@
 ---
-description: Last updated 1/22/25
+description: Last updated Jan 22, 2025
 ---
 
 # Bonus: Deploy to the Cloud
