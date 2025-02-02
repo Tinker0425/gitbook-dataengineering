@@ -44,15 +44,16 @@
 * [Bonus: Deploy to the Cloud](module-2/bonus-deploy-to-the-cloud.md)
 * [Homework](module-2/homework.md)
 
-## Workshop
-
-* [Nothing here yet!](workshop/nothing-here-yet.md)
-
 ## Module 3
 
 * [Nothing here yet!](module-3/nothing-here-yet.md)
 * [Introduction to Module 3](module-3/introduction-to-module-3.md)
 * [Homework](module-3/homework.md)
+
+## Workshop
+
+* [Workshop Week](workshop/workshop-week.md)
+* [Homework](workshop/homework.md)
 
 ## Module 4
 

@@ -16,7 +16,7 @@ coverY: 0
 
 ### HW #2 Q\&A
 
-:white\_check\_mark: My github repo to homework  #1 questions and full answers with thought process, links, and code:
+:white\_check\_mark: My github repo to homework  #2 questions and full answers with thought process, links, and code:
 
 ...repo & course management links to come...
 
@@ -27,6 +27,10 @@ Zoomcamp repo to 2025 homework #2 questions and answers...
 {% tabs %}
 {% tab title="Slack Answer" %}
 {% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1738362706631949?thread_ts=1738355550.937739&cid=C01FABYF2RG" %}
+{% endtab %}
+
+{% tab title="Slack Answer" %}
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1738514188670719" %}
 {% endtab %}
 {% endtabs %}
 
@@ -46,21 +50,15 @@ Zoomcamp repo to 2025 homework #2 questions and answers...
 {% endtab %}
 
 {% tab title="4" %}
-...
-
-
+{% embed url="https://tinker0425.github.io/data-engineering/2025/01/31/day19.html" %}
 {% endtab %}
 
 {% tab title="5" %}
-...
-
-
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lh3as3pkfs2w" %}
 {% endtab %}
 
 {% tab title="6" %}
-...
-
-
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lha5dknnds2l" %}
 {% endtab %}
 
 {% tab title="7" %}
@@ -69,8 +67,6 @@ Zoomcamp repo to 2025 homework #2 questions and answers...
 
 {% endtab %}
 {% endtabs %}
-
-
 
 ### About Me
 
@@ -87,7 +83,7 @@ Zoomcamp repo to 2025 homework #2 questions and answers...
 {% embed url="https://tinker0425.github.io/" %}
 {% endtab %}
 
-{% tab title="Linked" %}
+{% tab title="Linkedin" %}
 {% embed url="https://www.linkedin.com/in/kaylaflynn/" %}
 {% endtab %}
 {% endtabs %}

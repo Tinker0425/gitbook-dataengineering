@@ -97,7 +97,7 @@ Zoomcamp repo to 2025 homework #1 questions and answers
 {% embed url="https://tinker0425.github.io/" %}
 {% endtab %}
 
-{% tab title="Linked" %}
+{% tab title="Linkedin" %}
 {% embed url="https://www.linkedin.com/in/kaylaflynn/" %}
 {% endtab %}
 {% endtabs %}
