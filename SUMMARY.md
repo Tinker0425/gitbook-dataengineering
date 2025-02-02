@@ -46,8 +46,16 @@
 
 ## Module 3
 
-* [Nothing here yet!](module-3/nothing-here-yet.md)
 * [Introduction to Module 3](module-3/introduction-to-module-3.md)
+* [3.1 - Data Warehouse, Partitioning and Clustering](module-3/3.1-data-warehouse-partitioning-and-clustering/README.md)
+  * [Page 1](module-3/3.1-data-warehouse-partitioning-and-clustering/page-1.md)
+  * [Page 2](module-3/3.1-data-warehouse-partitioning-and-clustering/page-2.md)
+* [3.2 - BigQuery Internals and Best Practices](module-3/3.2-bigquery-internals-and-best-practices/README.md)
+  * [Page 3](module-3/3.2-bigquery-internals-and-best-practices/page-3.md)
+  * [Page 4](module-3/3.2-bigquery-internals-and-best-practices/page-4.md)
+* [3.3 - Machine Learning](module-3/3.3-machine-learning/README.md)
+  * [Page 5](module-3/3.3-machine-learning/page-5.md)
+  * [Page 6](module-3/3.3-machine-learning/page-6.md)
 * [Homework](module-3/homework.md)
 
 ## Workshop

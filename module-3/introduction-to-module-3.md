@@ -1,6 +1,6 @@
 ---
-description: Last updated 1/22/25
 icon: '3'
+description: Last updated 2/2/25
 cover: >-
   https://images.unsplash.com/photo-1682429365916-e88d339399d5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxudW1iZXIlMjAzfGVufDB8fHx8MTczNzYwNDg0N3ww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -26,7 +26,7 @@ layout:
 You will have 1 week to complete Module 3
 {% endhint %}
 
-:exclamation:Homework is due 2/17/25 (Alaska local time) -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
+:exclamation:Homework is due 2/12/25 (Alaska local time) -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
 
 :books: Module 3 Course Material from #zoomcamp:
 
@@ -36,6 +36,6 @@ You will have 1 week to complete Module 3
 
 #### :writing\_hand: Summary
 
-Module 3...
+:bookmark: These are the slides used for all lessons in Module 3 - [https://docs.google.com/presentation/d/1a3ZoBAXFk8-EhUsd7rAZd-5p\_HpltkzSeujjRGB2TAI/edit#slide=id.p](https://docs.google.com/presentation/d/1a3ZoBAXFk8-EhUsd7rAZd-5p_HpltkzSeujjRGB2TAI/edit#slide=id.p)
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>...</td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>3.1 -<a href="3.1-data-warehouse-partitioning-and-clustering/"> Data Warehouse, Partitioning and Clustering</a></td><td></td><td></td></tr><tr><td>3.2 - <a href="3.2-bigquery-internals-and-best-practices/">BigQuery Internals and Best Practices</a></td><td></td><td></td></tr><tr><td>3.3 -<a href="3.3-machine-learning/"> Machine Learning</a></td><td></td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
