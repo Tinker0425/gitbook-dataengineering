@@ -49,7 +49,7 @@
 * [Introduction to Module 3](module-3/introduction-to-module-3.md)
 * [3.1 - Data Warehouse, Partitioning and Clustering](module-3/3.1-data-warehouse-partitioning-and-clustering/README.md)
   * [3.1.1 - Data Warehouse and BigQuery](module-3/3.1-data-warehouse-partitioning-and-clustering/3.1.1-data-warehouse-and-bigquery.md)
-  * [3.1.2 - Partioning and Clustering](module-3/3.1-data-warehouse-partitioning-and-clustering/3.1.2-partioning-and-clustering.md)
+  * [3.1.2 - Partitioning and Clustering](module-3/3.1-data-warehouse-partitioning-and-clustering/3.1.2-partitioning-and-clustering.md)
 * [3.2 - BigQuery Internals and Best Practices](module-3/3.2-bigquery-internals-and-best-practices/README.md)
   * [3.2.1 - BigQuery Best Practices](module-3/3.2-bigquery-internals-and-best-practices/3.2.1-bigquery-best-practices.md)
   * [3.2.2 - Internals of Big Query](module-3/3.2-bigquery-internals-and-best-practices/3.2.2-internals-of-big-query.md)
