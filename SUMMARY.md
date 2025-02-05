@@ -49,13 +49,13 @@
 * [Introduction to Module 3](module-3/introduction-to-module-3.md)
 * [3.1 - Data Warehouse, Partitioning and Clustering](module-3/3.1-data-warehouse-partitioning-and-clustering/README.md)
   * [3.1.1 - Data Warehouse and BigQuery](module-3/3.1-data-warehouse-partitioning-and-clustering/3.1.1-data-warehouse-and-bigquery.md)
-  * [Page 2](module-3/3.1-data-warehouse-partitioning-and-clustering/page-2.md)
+  * [3.1.2 - Partioning and Clustering](module-3/3.1-data-warehouse-partitioning-and-clustering/3.1.2-partioning-and-clustering.md)
 * [3.2 - BigQuery Internals and Best Practices](module-3/3.2-bigquery-internals-and-best-practices/README.md)
-  * [Page 3](module-3/3.2-bigquery-internals-and-best-practices/page-3.md)
-  * [Page 4](module-3/3.2-bigquery-internals-and-best-practices/page-4.md)
+  * [3.2.1 - BigQuery Best Practices](module-3/3.2-bigquery-internals-and-best-practices/3.2.1-bigquery-best-practices.md)
+  * [3.2.2 - Internals of Big Query](module-3/3.2-bigquery-internals-and-best-practices/3.2.2-internals-of-big-query.md)
 * [3.3 - Machine Learning](module-3/3.3-machine-learning/README.md)
-  * [Page 5](module-3/3.3-machine-learning/page-5.md)
-  * [Page 6](module-3/3.3-machine-learning/page-6.md)
+  * [3.3.1 - BigQuery Machine Learning](module-3/3.3-machine-learning/3.3.1-bigquery-machine-learning.md)
+  * [3.3.2 - BigQuery Machine Learning Deployment](module-3/3.3-machine-learning/3.3.2-bigquery-machine-learning-deployment.md)
 * [Homework](module-3/homework.md)
 
 ## Workshop
