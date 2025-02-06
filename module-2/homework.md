@@ -18,9 +18,11 @@ coverY: 0
 
 :white\_check\_mark: My github repo to homework  #2 questions and full answers with thought process, links, and code:
 
-...repo & course management links to come...
+{% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-02/homework" %}
 
-Zoomcamp repo to 2025 homework #2 questions and answers...
+:ballot\_box\_with\_check: Zoomcamp repo to 2025 homework #2 questions and answers
+
+{% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025/02-workflow-orchestration" %}
 
 ### FAQ Support Links
 
@@ -62,9 +64,7 @@ Zoomcamp repo to 2025 homework #2 questions and answers...
 {% endtab %}
 
 {% tab title="7" %}
-...
-
-
+{% embed url="https://tinker0425.github.io/data-engineering/2025/02/04/day23.html..." %}
 {% endtab %}
 {% endtabs %}
 
