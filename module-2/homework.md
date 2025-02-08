@@ -24,6 +24,10 @@ coverY: 0
 
 {% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025/02-workflow-orchestration" %}
 
+:star: Leaderboard Rank #1 | 3-way-tie&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-02-08 at 1.01.17 PM.png" alt=""><figcaption></figcaption></figure>
+
 ### FAQ Support Links
 
 {% tabs %}
