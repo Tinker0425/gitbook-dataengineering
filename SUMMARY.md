@@ -73,8 +73,9 @@
   * [4.2.1 - Start Your dbt Project BigQuery and dbt Cloud](module-4/4.2-creating-your-project/4.2.1-start-your-dbt-project-bigquery-and-dbt-cloud.md)
   * [4.2.2 - Build the First dbt Models](module-4/4.2-creating-your-project/4.2.2-build-the-first-dbt-models.md)
   * [4.2.3 - Testing and Documenting the Project](module-4/4.2-creating-your-project/4.2.3-testing-and-documenting-the-project.md)
-* [4.3](module-4/4.3/README.md)
-  * [4.3.1](module-4/4.3/4.3.1.md)
+* [4.3 - Deployment & Visualizations](module-4/4.3-deployment-and-visualizations/README.md)
+  * [4.3.1 - Deployment Using dbt Cloud](module-4/4.3-deployment-and-visualizations/4.3.1-deployment-using-dbt-cloud.md)
+  * [4.3.2](module-4/4.3-deployment-and-visualizations/4.3.2.md)
 * [Homework](module-4/homework.md)
 
 ## Module 5
