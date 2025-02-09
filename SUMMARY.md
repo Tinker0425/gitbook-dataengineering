@@ -68,6 +68,8 @@
 * [Nothing here yet!](module-4/nothing-here-yet.md)
 * [Introduction to Module 4](module-4/introduction-to-module-4.md)
 * [Homework](module-4/homework.md)
+* [4.1](module-4/4.1/README.md)
+  * [Page 1](module-4/4.1/page-1.md)
 
 ## Module 5
 

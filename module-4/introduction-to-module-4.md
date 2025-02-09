@@ -1,6 +1,6 @@
 ---
-description: Last updated 1/22/25
 icon: '4'
+description: Last updated 1/22/25
 cover: >-
   https://images.unsplash.com/photo-1523286877159-d9636545890c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxudW1iZXIlMjA0fGVufDB8fHx8MTczNzYwNTAzM3ww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -26,7 +26,7 @@ layout:
 You will have 1 week to complete Module 4
 {% endhint %}
 
-:exclamation:Homework is due 2/24/25 (Alaska local time) -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
+:exclamation:Homework is due Feb 24, 2025 (Alaska local time) -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
 
 :books: Module 4 Course Material from #zoomcamp:
 
@@ -38,4 +38,4 @@ You will have 1 week to complete Module 4
 
 Module 4...
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>...</td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>...</td><td></td></tr><tr><td><a href="broken-reference">Homework</a></td><td></td><td></td></tr></tbody></table>
