@@ -75,7 +75,7 @@
   * [4.2.3 - Testing and Documenting the Project](module-4/4.2-creating-your-project/4.2.3-testing-and-documenting-the-project.md)
 * [4.3 - Deployment & Visualizations](module-4/4.3-deployment-and-visualizations/README.md)
   * [4.3.1 - Deployment Using dbt Cloud](module-4/4.3-deployment-and-visualizations/4.3.1-deployment-using-dbt-cloud.md)
-  * [4.3.2](module-4/4.3-deployment-and-visualizations/4.3.2.md)
+  * [4.3.2 - Visualising the data with Google Data Studio](module-4/4.3-deployment-and-visualizations/4.3.2-visualising-the-data-with-google-data-studio.md)
 * [Homework](module-4/homework.md)
 
 ## Module 5
