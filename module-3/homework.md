@@ -28,9 +28,7 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Slack Answer" %}
-...
-
-
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1739244818748259?thread_ts=1739243597.931999&cid=C01FABYF2RG" %}
 {% endtab %}
 {% endtabs %}
 
