@@ -9,6 +9,10 @@ coverY: 0
 # Homework
 
 {% hint style="info" %}
+
+
+
+
 2024 - 2022 Past homework and solutions can be found here
 
 [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts)
@@ -28,7 +32,15 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Slack Answer" %}
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1739289347575909?thread_ts=1739289231.930259&cid=C01FABYF2RG" %}
+{% endtab %}
+
+{% tab title="Slack Answer" %}
 {% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1739244818748259?thread_ts=1739243597.931999&cid=C01FABYF2RG" %}
+{% endtab %}
+
+{% tab title="Slack Answer" %}
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1739289602426779?thread_ts=1739288663.127639&cid=C01FABYF2RG" %}
 {% endtab %}
 {% endtabs %}
 
@@ -45,6 +57,14 @@ coverY: 0
 
 {% tab title="3" %}
 {% embed url="https://tinker0425.github.io/data-engineering/2025/02/10/day29.html" %}
+{% endtab %}
+
+{% tab title="4" %}
+{% embed url="https://www.linkedin.com/posts/kaylaflynn_dezoomcamp-bigquery-learninginpublic-activity-7295117278440738816-NSwB?utm_source=share&utm_medium=member_desktop" %}
+{% endtab %}
+
+{% tab title="5" %}
+
 {% endtab %}
 {% endtabs %}
 
