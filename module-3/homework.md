@@ -67,8 +67,12 @@ coverY: 0
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lhw4oflwjc23" %}
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="6" %}
+{% embed url="https://tinker0425.github.io/data-engineering/2025/02/11/day30.html" %}
+{% endtab %}
 
+{% tab title="7" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lhx6oyrm7223" %}
 {% endtab %}
 {% endtabs %}
 
