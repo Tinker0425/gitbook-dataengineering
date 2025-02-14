@@ -9,10 +9,6 @@ coverY: 0
 # Homework
 
 {% hint style="info" %}
-
-
-
-
 2024 - 2022 Past homework and solutions can be found here
 
 [https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts)
@@ -22,11 +18,15 @@ coverY: 0
 
 :white\_check\_mark: My github repo to homework  #3 questions and full answers with thought process, links, and code:
 
-....TODO
+{% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-03/homework" %}
 
 :ballot\_box\_with\_check: Zoomcamp repo to 2025 homework #3 questions and answers
 
 {% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025/03-data-warehouse" %}
+
+:star: Leaderboard Rank #1 | 3-way-tie continues!
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-02-14 at 2.07.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### FAQ Support Links
 
