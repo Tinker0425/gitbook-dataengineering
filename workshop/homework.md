@@ -18,6 +18,10 @@ coverY: 0
 
 {% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025/03-data-warehouse" %}
 
+:star: Leaderboard Rank #1 | 3-way-tie continues!
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-02-22 at 7.32.26 AM.png" alt=""><figcaption></figcaption></figure>
+
 ### FAQ Support Links
 
 {% tabs %}

@@ -1,6 +1,6 @@
 ---
-description: Due Feb 24 2025
 icon: memo-circle-check
+description: Due Feb 24 2025
 cover: >-
   https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdHVkeSUyMGNvZmZlZXxlbnwwfHx8fDE3Mzc2MDMzMDl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -28,9 +28,7 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Slack Answer" %}
-...
-
-
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1740088142752019?thread_ts=1740087333.844909&cid=C01FABYF2RG" %}
 {% endtab %}
 {% endtabs %}
 
@@ -38,7 +36,27 @@ coverY: 0
 
 {% tabs %}
 {% tab title="1" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lig2ibdoj22o" %}
+{% endtab %}
 
+{% tab title="2" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lil6zllzu22x" %}
+{% endtab %}
+
+{% tab title="3" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3liniu6r5ls2p" %}
+{% endtab %}
+
+{% tab title="4" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3liqfb2vf7s2q" %}
+{% endtab %}
+
+{% tab title="5" %}
+{% embed url="https://www.linkedin.com/posts/kaylaflynn_dezoomcamp-dlt-dbt-activity-7299100704923652096-6lcG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFuFJIBwogB1j0n7a7tcGdLWqvtihJUR6c" %}
+{% endtab %}
+
+{% tab title="6" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lirqfu4vv22m" %}
 {% endtab %}
 {% endtabs %}
 
