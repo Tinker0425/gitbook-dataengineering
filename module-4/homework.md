@@ -18,7 +18,7 @@ coverY: 0
 
 :white\_check\_mark: My github repo to homework  #4 questions and full answers with thought process, links, and code:
 
-....TODO
+{% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-04/homework" %}
 
 :ballot\_box\_with\_check: Zoomcamp repo to 2025 homework #4 questions and answers
 
@@ -57,6 +57,10 @@ coverY: 0
 
 {% tab title="6" %}
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lirqfu4vv22m" %}
+{% endtab %}
+
+{% tab title="7" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3liufnf4t3s2l" %}
 {% endtab %}
 {% endtabs %}
 
