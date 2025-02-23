@@ -81,7 +81,6 @@
 
 ## Module 5
 
-* [Nothing here yet!](module-5/nothing-here-yet.md)
 * [Introduction to Module 5](module-5/introduction-to-module-5.md)
 * [Homework](module-5/homework.md)
 
