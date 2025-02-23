@@ -82,6 +82,23 @@
 ## Module 5
 
 * [Introduction to Module 5](module-5/introduction-to-module-5.md)
+* [5.1 - Install & Intro](module-5/5.1-install-and-intro/README.md)
+  * [5.1.1 - Install](module-5/5.1-install-and-intro/5.1.1-install.md)
+  * [5.1.2 - Intro to Batch Processing](module-5/5.1-install-and-intro/5.1.2-intro-to-batch-processing.md)
+  * [5.1.3 - Intro to Spark](module-5/5.1-install-and-intro/5.1.3-intro-to-spark.md)
+* [5.2 - Spark SQL and DataFrames](module-5/5.2-spark-sql-and-dataframes/README.md)
+  * [5.2.1 - Spark & PySpark](module-5/5.2-spark-sql-and-dataframes/5.2.1-spark-and-pyspark.md)
+  * [5.2.2 - Spark Dataframes](module-5/5.2-spark-sql-and-dataframes/5.2.2-spark-dataframes.md)
+  * [5.2.3 - SQL with Spark](module-5/5.2-spark-sql-and-dataframes/5.2.3-sql-with-spark.md)
+* [5.3 - Spark Internals](module-5/5.3-spark-internals/README.md)
+  * [5.3.1 - Anatomy of a Spark Cluster](module-5/5.3-spark-internals/5.3.1-anatomy-of-a-spark-cluster.md)
+  * [5.3.2 - GroupBy in Spark](module-5/5.3-spark-internals/5.3.2-groupby-in-spark.md)
+  * [5.3.3 - Joins in Spark](module-5/5.3-spark-internals/5.3.3-joins-in-spark.md)
+* [5.4 - Running Spark in the Cloud](module-5/5.4-running-spark-in-the-cloud/README.md)
+  * [5.4.1 - Connecting to Google Cloud Storage](module-5/5.4-running-spark-in-the-cloud/5.4.1-connecting-to-google-cloud-storage.md)
+  * [5.4.2 - Creating a Local Spark Cluster](module-5/5.4-running-spark-in-the-cloud/5.4.2-creating-a-local-spark-cluster.md)
+  * [5.4.3 - Setting up a Dataproc Cluster](module-5/5.4-running-spark-in-the-cloud/5.4.3-setting-up-a-dataproc-cluster.md)
+  * [5.4.4 - Connecting Spark to Big Query](module-5/5.4-running-spark-in-the-cloud/5.4.4-connecting-spark-to-big-query.md)
 * [Homework](module-5/homework.md)
 
 ## Module 6
