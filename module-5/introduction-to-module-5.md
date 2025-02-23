@@ -26,6 +26,8 @@ layout:
 You will have 1 week to complete Module 5
 {% endhint %}
 
+:clock4:  _Estimated time spent on this lesson | \~360 min_
+
 :exclamation:Homework is due 3/03/25 (Alaska local time) -  [https://courses.datatalks.club/de-zoomcamp-2025/](https://courses.datatalks.club/de-zoomcamp-2025/)
 
 :books: Module 5 Course Material from #zoomcamp:
@@ -38,4 +40,4 @@ You will have 1 week to complete Module 5
 
 Module 5...
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>...</td><td></td></tr><tr><td><a href="broken-reference">Homework</a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
