@@ -36,8 +36,6 @@ You will have 1 week to complete Module 5
 
 <figure><img src="../.gitbook/assets/arch_v4_workshops (1).jpg" alt=""><figcaption><p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/images/architecture">https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/images/architecture</a></p></figcaption></figure>
 
-#### :writing\_hand: Summary
+#### :writing\_hand: Module 5 is all about batch processing using Spark
 
-Module 5...
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="5.1-install-and-intro/">5.1 - Instrall &#x26; Intro</a></td><td></td><td></td></tr><tr><td><a href="5.2-spark-sql-and-dataframes/">5.2 - Spark SQL and Dataframes</a></td><td></td><td></td></tr><tr><td><a href="5.3-spark-internals/">5.3 - Spark Internals</a></td><td></td><td></td></tr><tr><td><a href="5.4-running-spark-in-the-cloud/">5.4 - Running Spark in the Cloud</a></td><td></td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
