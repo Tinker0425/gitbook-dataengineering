@@ -54,6 +54,10 @@ coverY: 0
 {% tab title="5" %}
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3ljj6c4znwc2t" %}
 {% endtab %}
+
+{% tab title="Untitled" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3ljlwgsakcc2j" %}
+{% endtab %}
 {% endtabs %}
 
 ### About Me
