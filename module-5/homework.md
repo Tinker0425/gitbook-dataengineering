@@ -1,6 +1,6 @@
 ---
-description: Due Mar 3 2025
 icon: memo-circle-check
+description: Due Mar 3 2025
 cover: >-
   https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdHVkeSUyMGNvZmZlZXxlbnwwfHx8fDE3Mzc2MDMzMDl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -35,8 +35,24 @@ coverY: 0
 ### Learning in Public
 
 {% tabs %}
-{% tab title="Untitled" %}
+{% tab title="1" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lixs7l2ve227" %}
+{% endtab %}
 
+{% tab title="2" %}
+{% embed url="https://www.linkedin.com/posts/kaylaflynn_github-datatalksclubdata-engineering-zoomcamp-activity-7302478532696317954-p3g4?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFuFJIBwogB1j0n7a7tcGdLWqvtihJUR6c" %}
+{% endtab %}
+
+{% tab title="3" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lj2fooqj5k2a" %}
+{% endtab %}
+
+{% tab title="4" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3ljbqllipjk24" %}
+{% endtab %}
+
+{% tab title="5" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3ljj6c4znwc2t" %}
 {% endtab %}
 {% endtabs %}
 
