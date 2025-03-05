@@ -1,6 +1,6 @@
 ---
-description: Last updated 1/22/25
 icon: '6'
+description: Last updated 1/22/25
 cover: >-
   https://images.unsplash.com/photo-1644489263920-d1ce90bdefcc?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8bnVtYmVyJTIwNnxlbnwwfHx8fDE3Mzc2MDUzMjV8MA&ixlib=rb-4.0.3&q=85
 coverY: 115
@@ -38,4 +38,4 @@ You will have 1 week to complete Module 6
 
 Module 6...
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>...</td><td></td></tr><tr><td><a href="homework.md">Homework</a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>...</td><td></td></tr><tr><td><a href="broken-reference">Homework</a></td><td></td><td></td></tr></tbody></table>
