@@ -27,8 +27,8 @@ coverY: 0
 ### FAQ Support Links
 
 {% tabs %}
-{% tab title="Untitled" %}
-
+{% tab title="FAQ" %}
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1741141882223989?thread_ts=1741075461.287649&cid=C01FABYF2RG" %}
 {% endtab %}
 {% endtabs %}
 
@@ -55,7 +55,7 @@ coverY: 0
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3ljj6c4znwc2t" %}
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="6" %}
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3ljlwgsakcc2j" %}
 {% endtab %}
 {% endtabs %}
