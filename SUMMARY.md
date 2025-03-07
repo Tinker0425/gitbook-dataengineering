@@ -110,7 +110,7 @@
   * [6.1.3 - What is Kafka?](module-6/6.1-stream-processing/6.1.3-what-is-kafka.md)
   * [6.1.4 - Confluent cloud](module-6/6.1-stream-processing/6.1.4-confluent-cloud.md)
   * [6.1.5 - Kafka producer consumer](module-6/6.1-stream-processing/6.1.5-kafka-producer-consumer.md)
-  * [6.1.6 -](module-6/6.1-stream-processing/6.1.6.md)
+  * [6.1.6 - Kafka configuration](module-6/6.1-stream-processing/6.1.6-kafka-configuration.md)
 * [6.2 - Kafka Streams](module-6/6.2-kafka-streams/README.md)
   * [6.2.1 -](module-6/6.2-kafka-streams/6.2.1.md)
   * [6.2.2 -](module-6/6.2-kafka-streams/6.2.2.md)
