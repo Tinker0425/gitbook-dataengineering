@@ -112,7 +112,7 @@
   * [6.1.5 - Kafka producer consumer](module-6/6.1-stream-processing/6.1.5-kafka-producer-consumer.md)
   * [6.1.6 - Kafka configuration](module-6/6.1-stream-processing/6.1.6-kafka-configuration.md)
 * [6.2 - Kafka Streams](module-6/6.2-kafka-streams/README.md)
-  * [6.2.1 -](module-6/6.2-kafka-streams/6.2.1.md)
+  * [6.2.1 - Kafka Stream Basics](module-6/6.2-kafka-streams/6.2.1-kafka-stream-basics.md)
   * [6.2.2 -](module-6/6.2-kafka-streams/6.2.2.md)
   * [6.2.3 -](module-6/6.2-kafka-streams/6.2.3.md)
   * [6.2.4 -](module-6/6.2-kafka-streams/6.2.4.md)
