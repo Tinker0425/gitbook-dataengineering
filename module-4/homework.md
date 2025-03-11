@@ -20,9 +20,13 @@ coverY: 0
 
 {% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-04/homework" %}
 
-:ballot\_box\_with\_check: Zoomcamp repo to 2025 homework #4 questions and answers
+:ballot\_box\_with\_check: Zoomcamp repo to 2025 homework #4 questions and answers. The answer I got wrong was #1 should be \`select \* from myproject.raw\_nyc\_tripdata.ext\_green\_taxi\`
 
 {% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/cohorts/2025/04-analytics-engineering" %}
+
+:star: Leaderboard Rank #2&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-03-10 at 5.07.06 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### FAQ Support Links
 
