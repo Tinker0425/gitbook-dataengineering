@@ -115,4 +115,5 @@
 
 ## Final Project
 
-* [Nothing here yet!](final-project/nothing-here-yet.md)
+* [Final Project](final-project/final-project.md)
+* [THE END](final-project/the-end.md)
