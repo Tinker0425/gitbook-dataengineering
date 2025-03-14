@@ -55,8 +55,12 @@ coverY: 0
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lk5mxr44kc2y" %}
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="6" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lkaajg53xk2g" %}
+{% endtab %}
 
+{% tab title="7" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lkchkap7l22z" %}
 {% endtab %}
 {% endtabs %}
 
