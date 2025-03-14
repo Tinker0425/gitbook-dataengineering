@@ -1,5 +1,5 @@
 ---
-description: Due Mar 10 2025
+description: Due Mar 16 2025
 icon: memo-circle-check
 cover: >-
   https://images.unsplash.com/photo-1499750310107-5fef28a66643?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdHVkeSUyMGNvZmZlZXxlbnwwfHx8fDE3Mzc2MDMzMDl8MA&ixlib=rb-4.0.3&q=85
@@ -18,7 +18,7 @@ coverY: 0
 
 :white\_check\_mark: My github repo to homework  #6 questions and full answers with thought process, links, and code:
 
-
+{% @github-files/github-code-block url="https://github.com/Tinker0425/de-zoomcamp-my-work/tree/master/module-06/homework" %}
 
 :ballot\_box\_with\_check: Zoomcamp repo to 2025 homework #5 questions and answers
 

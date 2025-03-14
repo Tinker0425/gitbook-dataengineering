@@ -111,15 +111,6 @@
   * [6.1.4 - Confluent cloud](module-6/6.1-stream-processing/6.1.4-confluent-cloud.md)
   * [6.1.5 - Kafka producer consumer](module-6/6.1-stream-processing/6.1.5-kafka-producer-consumer.md)
   * [6.1.6 - Kafka configuration](module-6/6.1-stream-processing/6.1.6-kafka-configuration.md)
-* [6.2 - Kafka Streams](module-6/6.2-kafka-streams/README.md)
-  * [6.2.1 - Kafka Stream Basics](module-6/6.2-kafka-streams/6.2.1-kafka-stream-basics.md)
-  * [6.2.2 -](module-6/6.2-kafka-streams/6.2.2.md)
-  * [6.2.3 -](module-6/6.2-kafka-streams/6.2.3.md)
-  * [6.2.4 -](module-6/6.2-kafka-streams/6.2.4.md)
-  * [6.2.5 -](module-6/6.2-kafka-streams/6.2.5.md)
-  * [6.2.6 -](module-6/6.2-kafka-streams/6.2.6.md)
-* [6.3](module-6/6.3/README.md)
-  * [Page 3](module-6/6.3/page-3.md)
 * [Homework](module-6/homework.md)
 
 ## Final Project
