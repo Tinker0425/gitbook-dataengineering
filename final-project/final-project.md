@@ -27,14 +27,18 @@ coverY: 0
 ### FAQ Support Links
 
 {% tabs %}
-{% tab title="Untitled" %}
-
+{% tab title="FAQ" %}
+{% embed url="https://datatalks-club.slack.com/archives/C01FABYF2RG/p1742259805581859?thread_ts=1742256542.567549&cid=C01FABYF2RG" %}
 {% endtab %}
 {% endtabs %}
 
 ### Learning in Public
 
 {% tabs %}
+{% tab title="1" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lkk3q2gd7c26" %}
+{% endtab %}
+
 {% tab title="Untitled" %}
 
 {% endtab %}
