@@ -39,6 +39,10 @@ coverY: 0
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lkk3q2gd7c26" %}
 {% endtab %}
 
+{% tab title="2" %}
+{% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lkmidsvoqs24" %}
+{% endtab %}
+
 {% tab title="Untitled" %}
 
 {% endtab %}
