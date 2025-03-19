@@ -116,4 +116,5 @@
 ## Final Project
 
 * [Final Project](final-project/final-project.md)
+* [How To!](final-project/how-to.md)
 * [THE END](final-project/the-end.md)
