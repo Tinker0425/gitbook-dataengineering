@@ -55,6 +55,10 @@ coverY: 0
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3lkwlsehi3s2q" %}
 {% endtab %}
 
+{% tab title="6" %}
+{% embed url="https://www.linkedin.com/posts/kaylaflynn_github-datatalksclubdata-engineering-zoomcamp-activity-7309026599612399616-aZ31?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFuFJIBwogB1j0n7a7tcGdLWqvtihJUR6c" %}
+{% endtab %}
+
 {% tab title="Untitled" %}
 
 {% endtab %}
