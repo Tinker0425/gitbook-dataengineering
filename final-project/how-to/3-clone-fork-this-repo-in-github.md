@@ -20,6 +20,7 @@
       * `GCS_CREDENTIALS`: Google Cloud credentials file (as a JSON string).
       * `PETFINDER_CLIENT_SECRET`: PetFinder API key.
       * `PETFINDER_CLIENT_ID`: PetFinder API ID.
+      * `BUCKET`: Global unique bucket name (example petfinder-bucket-5987654)
 
 
 
