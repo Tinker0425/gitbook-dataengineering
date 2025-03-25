@@ -116,5 +116,8 @@
 ## Final Project
 
 * [Final Project](final-project/final-project.md)
-* [How To!](final-project/how-to.md)
+* [How To!](final-project/how-to/README.md)
+  * [1 - Create a Google Cloud Project](final-project/how-to/1-create-a-google-cloud-project.md)
+  * [2- API Key and Access Token Setup](final-project/how-to/2-api-key-and-access-token-setup.md)
+  * [3- Clone/Fork This Repo in Github](final-project/how-to/3-clone-fork-this-repo-in-github.md)
 * [THE END](final-project/the-end.md)
