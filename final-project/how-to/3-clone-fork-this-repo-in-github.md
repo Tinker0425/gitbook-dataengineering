@@ -16,11 +16,10 @@
 
     <figure><img src="../../.gitbook/assets/Screen Shot 2025-03-24 at 6.25.34 PM.png" alt=""><figcaption></figcaption></figure>
 
-    *   Add the following secrets to \`New Repository Secrets\`:
-
-        * `GCP_CREDENTIALS`: Google Cloud credentials file (as a JSON string).
-        * `PETFINDER_API_KEY`: PetFinder API key.
-        * `PETFINDER_API_ID`: PetFinder API ID.
+    * Add the following secrets:
+      * `GCS_CREDENTIALS`: Google Cloud credentials file (as a JSON string).
+      * `PETFINDER_CLIENT_SECRET`: PetFinder API key.
+      * `PETFINDER_CLIENT_ID`: PetFinder API ID.
 
 
 
