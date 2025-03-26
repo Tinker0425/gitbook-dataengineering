@@ -1,8 +1,8 @@
-# 3 - Clone/Fork This Repo in Github
+# 3 - Fork This Repo in Github
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2025-03-24 at 6.23.05 PM.png" alt=""><figcaption></figcaption></figure>
 
-1. **Fork/Clone the repository**:
+1. **Fork the repository**:
    * Fork it to your GitHub account.
    * This is mandatory, as I use Github Actions for Workflow
 
