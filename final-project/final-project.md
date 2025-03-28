@@ -24,6 +24,8 @@ coverY: 0
 
 {% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/projects" %}
 
+:star: Leaderboard Rank #2&#x20;
+
 ### FAQ Support Links
 
 {% tabs %}

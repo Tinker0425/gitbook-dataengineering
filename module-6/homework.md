@@ -24,6 +24,10 @@ coverY: 0
 
 {% @github-files/github-code-block url="https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/06-streaming" %}
 
+:star: Leaderboard Rank #2&#x20;
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-03-27 at 6.38.40 PM.png" alt=""><figcaption></figcaption></figure>
+
 ### FAQ Support Links
 
 {% tabs %}
