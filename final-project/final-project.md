@@ -84,6 +84,10 @@ coverY: 0
 {% tab title="12" %}
 {% embed url="https://bsky.app/profile/cloudybluewave.bsky.social/post/3llfrka4wik2a" %}
 {% endtab %}
+
+{% tab title="13" %}
+{% embed url="https://www.linkedin.com/posts/kaylaflynn_dezoomcamp-learninginpublic-activity-7311567023120007169-litw?utm_source=share&utm_medium=member_desktop&rcm=ACoAABFuFJIBwogB1j0n7a7tcGdLWqvtihJUR6c" %}
+{% endtab %}
 {% endtabs %}
 
 ### About Me
